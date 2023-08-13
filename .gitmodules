@@ -1,0 +1,6 @@
+[submodule "GameShell"]
+	path = GameShell
+	url = https://github.com/phyver/GameShell
+[submodule "git-game-v2"]
+	path = git-game-v2
+	url = https://github.com/git-game/git-game-v2
