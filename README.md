@@ -1,2 +1,2 @@
-# 2023-summer-computing
-2023 summer computing bootcamp for graduate students in statistics at Seoul National University
+# 2023-bigdata-computing
+2023-summer bigdata bootcamp for graduate students in statistics at Seoul National University
