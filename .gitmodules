@@ -4,3 +4,6 @@
 [submodule "git-game-v2"]
 	path = git-game-v2
 	url = https://github.com/mybirth0407/git-game-v2
+[submodule "sql-mysteries"]
+	path = sql-mysteries
+	url = https://github.com/NUKnightLab/sql-mysteries
