@@ -3,4 +3,5 @@
 
 References:
 
-A Introduction to Data Science @ SNU by Joong-Ho (Johann) Won
+A Introduction to Data Science @ SNU by Joong-Ho (Johann) Won<br>
+https://git-scm.com/
