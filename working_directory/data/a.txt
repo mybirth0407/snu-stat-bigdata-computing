@@ -1,0 +1,2 @@
+This is data file.
+Should be ignored.
