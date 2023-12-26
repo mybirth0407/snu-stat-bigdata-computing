@@ -1,0 +1,18 @@
+total 64
+drwxrwxrwx+ 5 codespace codespace 4096 Aug 25 02:56 .
+drwxrwxrwx+ 6 codespace root      4096 Aug 25 02:26 ..
+-rw-rw-rw-  1 codespace codespace  146 Aug 22 17:45 do_not_run.py
+-rw-rw-rw-  1 codespace codespace   52 Aug 25 02:54 error_log.txt
+-rw-rw-rw-  1 codespace codespace   21 Aug 25 02:23 fileB.txt
+-rw-rw-rw-  1 codespace codespace   15 Aug 25 02:51 hi
+-rw-rw-rw-  1 codespace codespace   21 Aug 24 16:48 input.txt
+-rw-rw-rw-  1 codespace codespace 6101 Aug 24 17:53 long.txt
+-rw-rw-rw-  1 codespace codespace  592 Aug 25 02:17 pattern1
+drwxrwxrwx+ 2 codespace codespace 4096 Aug 24 17:21 pattern1_dir1
+drwxrwxrwx+ 2 codespace codespace 4096 Aug 24 17:21 pattern1_dir2
+-rw-rw-rw-  1 codespace codespace   28 Aug 22 17:25 pattern1_file1
+-rw-rw-rw-  1 codespace codespace   27 Aug 22 17:30 pattern1_file2
+-rw-rw-rw-  1 codespace codespace    0 Aug 22 18:08 pattern2
+-rw-rw-rw-  1 codespace codespace    0 Aug 25 02:56 print_log.txt
+-rw-rw-rw-  1 codespace codespace  107 Aug 23 07:07 square.py
+drwxrwxrwx+ 3 codespace codespace 4096 Aug 22 14:09 wildcard1
