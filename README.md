@@ -1,8 +1,5 @@
-# 2023-stat-bigdata-computing
-2023-winter bigdata bootcamp for graduate students in statistics at Seoul National University
-
-### 학과 설문지:
-https://docs.google.com/forms/d/e/1FAIpQLSeVe0ItoEEDGY-o_Ee3cXq1_CIsXxBB4HYeJHFO1WLY9QfiDw/viewform
+# snu-stat-bigdata-computing
+Bigdata computing bootcamp for graduate students in statistics at Seoul National University
 
 ### References:
 
