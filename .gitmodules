@@ -1,6 +1,0 @@
-[submodule "GameShell"]
-	path = GameShell
-	url = https://github.com/phyver/GameShell
-[submodule "sql-mysteries"]
-	path = sql-mysteries
-	url = https://github.com/NUKnightLab/sql-mysteries
